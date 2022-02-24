@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heu and cry, or A relation of the travels of the Devil and Towzer through all the earthly territorys, and the infernal region, together with many of their most memorable adventures in search after the lost Heraclitus / written by N.N. ...</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52738</idno>
+            <idno type="STC">Wing N36</idno>
+            <idno type="STC">ESTC R19341</idno>
+            <idno type="EEBO-CITATION">12442138</idno>
+            <idno type="OCLC">ocm 12442138</idno>
+            <idno type="VID">62110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62110)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 945:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heu and cry, or A relation of the travels of the Devil and Towzer through all the earthly territorys, and the infernal region, together with many of their most memorable adventures in search after the lost Heraclitus / written by N.N. ...</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roger Catflogger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heraclitus, --  of Ephesus.</term>
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+               <term>Devil --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62110:1"/>
+            <pb facs="tcp:62110:1"/>
+            <p>THE HEU and CRY: OR, A. RELATION of the TRAVELS OF THE <hi>Devil and Towzer,</hi> Through all the Earthly Territorys, and the Infernal Region, toge<g ref="char:EOLhyphen"/>ther with many of their moſt memora<g ref="char:EOLhyphen"/>ble Adventures in ſearch after the loſt HERACLITUS</p>
+            <p>Written by <hi>N. N.</hi> M. A. and Chaplain Errant to his Excellency The Guide to the Inferiour Clergy</p>
+            <q>
+               <l>Per varios Caſue, per tot diſcrimina rerum,</l>
+               <l>Tendimus in Stygium.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Roger C<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gger.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62110:2"/>
+            <pb facs="tcp:62110:2"/>
+            <head>To his Honoured PATRON, the GUIDE to the INFERIOUR CLERGY.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>TO whom ſhould I dedicate this Relation, but to your ſelf, who <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear one of the greateſt parts in it; This, beſides thoſe many Obligations I have re<g ref="char:EOLhyphen"/>ceived from you, hath emboldned me to lay this Book at your Feet. Many, 'tis like, of the Credulous World will cen<g ref="char:EOLhyphen"/>ſure me for relating a meer Fiction; But if they are ſo hard of belief as to miſtruſt the truth of your having been in Hell allready, they are not certainly ſo damnably ſottiſh, but that they think the Devil will have you in a ſhort time, and then this may paſs for a Prop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecy. That our dear Friend <hi>HERACLITUS</hi> is gone, alas! it is too true; and you and he having liv'd the ſame lives, and acted alike, by moſt men you are doom'd to the ſame deſtiny. You have writ<g ref="char:EOLhyphen"/>ten many tedious <hi>Obſervaters</hi> for the publick good, and I <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ite this Relation for the ſame end. Ah! how will it revive the Cockles of the Hearts of our Tory Friends to hear the Devil and you keep ſuch Correſpondence; ah! ſay they, now our cauſe muſt needs Flouriſh when our two<g ref="char:punc">▪</g>
+               <pb facs="tcp:62110:3"/>
+great Polliticians agree ſo well. But I care not what the men of the World ſay of my Relation, let it paſs for a meer Romance if they pleaſe, let it be the Continuation of <hi>Quevedo's Viſions,</hi> which (you know) you Tran<g ref="char:EOLhyphen"/>ſlated out of a Language you underſtood never a word of, and then why may not I compleat it with a Relation I ne<g ref="char:EOLhyphen"/>ver heard nor ſaw any thing of. And to conclude, I aſſure you, if ever you take another Ramble it ſhall be Faithfully Related by</p>
+            <closer>
+               <signed>Your moſt Humble Servant, and Chaplain.
+<hi>N. N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:62110:3"/>
+            <head>A Relation of the Travels of <hi>Towzer</hi> and <hi>Satan,</hi> (in ſearch after the loſt <hi>Heracli<g ref="char:EOLhyphen"/>tus</hi>) through all the Earthly Territorys, and the Infernal Region, <hi>&amp;c.</hi>
+            </head>
+            <p>IT was then (when Diſcord newly ſprang up, did Flouriſh in its Verdure; when Rogue and Whore were Epithets for Man and Wife, and Fool and Knave for Neighbours; when <hi>Babels Bricklayers</hi> had Invaded <hi>England,</hi> and had made as many Diſſen<g ref="char:EOLhyphen"/>tions in it, as they had Bricks to build their Edifice) 'twas then, (I ſay,) this Son of Diſcord call'd <hi>Hera<g ref="char:EOLhyphen"/>clitus, Cadet</hi> to the Family of Prince <hi>Belzebub,</hi> came (by his Fathers Commiſſion) to Plague our Common-Wealth. The Hiſtory of his Life would be too tedi<g ref="char:EOLhyphen"/>ous to Trouble the Reader with; And I only deſign to Relate his Departure. How the Devil it came about, I know not, but upon a certain day, the Wight ſtept aſide, and was never more heard of; various was the talk both of City and Court, Town and Country, what was become of the famous <hi>Heraclitus;</hi> ſome ſaid, he liv'd a Fool, went out in a ſtink, and (if he were quite Deceaſed) dy'd a Knave; others (and thoſe were but few) had a little more Favourable Conjectures of him, and ſaid he was only ſtept aſide to <hi>Barn-Elms, Epſom Wells,</hi> or ſome ſuch place, and was caught in a Net they call a <hi>Petticoat;</hi> others ſaid, he was drunk at the <hi>Prentices Feaſt,</hi> and was yet aſleep; this was again Con<g ref="char:EOLhyphen"/>tradicted
+<pb n="2" facs="tcp:62110:4"/>
+by others, becauſe (as they ſaid,) he told the World in a <hi>Printed Pamphlet</hi> a little before he went away, he had a Deſign to Vaniſh, which made moſt think he was in Debt, and ſo gave his Creditors warn<g ref="char:EOLhyphen"/>ing of his Rupture. This News was ſoon carryed to his <hi>Infernal Highneſs,</hi> which caſt him into ſuch a Me<g ref="char:EOLhyphen"/>lancholy, you would wonder; he ſtraitwayes puts all his retinue of <hi>Helliſh-long-tails</hi> into Mourning, mounts his Fiery Chariot and aſcends, and without any Cere<g ref="char:EOLhyphen"/>mony drives away to <hi>Councellor Towzer,</hi> after a little Conſultation it was agreed upon by theſe two Politi<g ref="char:EOLhyphen"/>cians, firſt, To take a Journey over the whole Surface of the Earth, and if he were not to be found there, they were reſolv'd to ſeek Hell too, but they would find him. Being agreed upon by both parties, I was ſent for from my Devotion (for by the way you muſt underſtand I uſe to ſay my Prayers, and tell my Beads ſometimes) to attend his Excellency, My Patron, that hath ſo many Names in the World, ſome call him <hi>the Guide to the In<g ref="char:EOLhyphen"/>ferior Clergy,</hi> others call him <hi>Towzer,</hi> and ſome call him <hi>Rogero del Bombardo,</hi> I (who am allwayes Ambitious of Ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:punc">▪</g>) hearing his Worſhip, <hi>Satan,</hi> was in the Com<g ref="char:EOLhyphen"/>pany, went away with as much Alacrity, as if I had been Invited to a Chriſtning to drink burnt Claret, and ſup white Broath: I put my hat under my Arm, ſet my Gown in <hi>Pimblico,</hi> Entred the Room, and made a pla<g ref="char:EOLhyphen"/>guy long Scrape with one of my hind Legs upon the Boards of the Chamber, and then told my Patron, I was come to wait on his Worſhip; My Patron bid me come near<g ref="char:EOLhyphen"/>er; but to ſay true, I did not much care for't, for the Old Gentleman call'd <hi>Belzeebub</hi> ſate juſt by his Side in a great <hi>Turky</hi> Chair; Heavens! I was in ſuch a Fright, I thought verily, I ſhould have defil'd the caſe in the
+<pb n="3" facs="tcp:62110:4"/>
+preſence Chamber; but if I had, there was ſuch a Stink of <hi>Aſſa-Foetida</hi> and Brimſtone, it would have drownded ſuch a puny Scent as this. At length my Patron open'd his reverend Chaps and told me, he had deſign'd to take a long Journey with that Gentleman, and I muſt go with him to perform the Office of a <hi>Chaplain.</hi> I told him I was his Humble Servant. But yet, methought, I did not Care much for Mr. <hi>Devils</hi> Company, I lik'd him ſo ill at firſt Sight; for he Star'd at me moſt damnably with a couple of Eyes as big as a pair of great Coach<g ref="char:EOLhyphen"/>wheels, and his Teeth look't juſt like the Spoaks. But knowing him to be one, that delighted in all kind of Wickedneſs, and my Patron to have a very good hand at it, and to ſay true, I did not much come behind my Patron neither; ſo <hi>Conſideratis Conſiderandis,</hi> I thought we three might be very good Company; Then I made a very Reverend low Conge to Mr. <hi>Devil,</hi> and told him, I would wait on him and my Patron <hi>Towzer,</hi> whither ſoever they went. <hi>Towzer</hi> was all this while fitting him<g ref="char:EOLhyphen"/>ſelf for his Journey, getting all the neceſſaries for ſo tedious a Ramble; then he ſteps into his Cloſet and brings out a woundy great Pouch, which he told me I was to hang by my ſide on my Cirſingle, and then bid me withdraw, which (after the uſual Ceremonies be<g ref="char:EOLhyphen"/>tween men of ſuch breeding as we three were) I did<g ref="char:punc">▪</g> But I had a months mind to know what was in the In<g ref="char:EOLhyphen"/>ſide of this Pouch; when I came out into the Entry, I made bold to open it, and the firſt thing I laid my hands on, was a naſty bottom of <hi>Catsgut;</hi> then I pluckt out 2 or 3 pound of <hi>Roſin,</hi> but yet there lay ſomething in the bottom of the Pouch I was reſolv'd t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee; opening, there <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay the head of <hi>a Trebble Violin,</hi> ſtaring at me like the wrought end of a Conſtables Staff, then putting all up again,
+<pb n="4" facs="tcp:62110:5"/>
+ha! Thinks I, we ſhall have a merry Journey of it, I find by my <hi>Fiddle.</hi> By this time the <hi>two Knights-Errant</hi> were ready to Sally forth, and I their <hi>Squire</hi> was as ready as they. Away we March in Purſuit of the loſt <hi>Heraclitus;</hi> we had paſt over many Melancholy Heaths, Deſart Woods, and Unpeopled Forreſts, but heard no Tale nor Tydings of him; The Savage Boars rudely grunted at us, but told us no News of our dear Friend; the Ungentile wild Horſes kick't and Farted at us, and turn'd us away with<g ref="char:EOLhyphen"/>out any News of <hi>Heraclitus;</hi> Then we retir'd to the Ioneſome Cottages, then to the more Populous Towns and Citys, but the Devil a bit of <hi>Heraclitus</hi> was to be found. But to ſee how <hi>Towzer</hi> behav'd himſelf, Heavens! I thought verily I ſhould have burſt my <hi>Cirſingle</hi> with Laughter; Not a Poſt he came by but he lifted up his Leg and piſt againſt it, to ſee if it were a moveable; not a Church, but he peept in at the Key-hole, to ſee if <hi>Younker Crape</hi> were not reading the <hi>Burial</hi> over his Corps; when ever he came in a way where there were many Turnings and Windings, he let looſe a Company of young <hi>Succub<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>'s (which he kept under the warm Influence of his Tail for ſuchlike Purpoſes) to range the Labyrinth to find out the Loſt Aſs; but all was in vain, the Wanderer was not to be found.</p>
+            <p>Then <hi>Belzebub</hi> and <hi>Towzer</hi> reſolv'd to deſcend, and ſearch the nether Region after him; and I, forſooth, muſt go too with my Budget of Fiddle-ſtrings at my Arſe. We wandred for many days through Subterranean Holes and dark Caverns, as glooming as Hell its ſelf; then we came to a broad Level; at a diſtance we ſaw a light hung out, by which we ſtear'd our Courſe; This Light was hung out at the Ferry, to conduct the Paſſengers, who were <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound Hell-ward; Here we arrived, and then ſtalkt down
+<pb n="5" facs="tcp:62110:5"/>
+with <hi>Charon,</hi> and entred his Boat, where we found a great Company that were bound over; I look'd about me to ſee if I could ſee any of my Profeſſion there. (For though we Preach the Word of God to men, and perhaps ſend ſome Souls to Heaven, yet we indent with the Devil to have a part with him in Hell.) Here I found a great many of my Acquaintance, but they came without their Gowns on, and therefore I ſcorn'd to take any notice of them; our Ferry Boat skim'd along the pitchy ſurges moſt brave<g ref="char:EOLhyphen"/>ly, and were quickly landed in the innermoſt Region. <hi>Belzeebuh</hi> commanded the door of Hell to be open'd, which was ſoon done. Now you muſt know this door is kept by a great <hi>Maſtiff Tyke</hi> call'd <hi>Cerberus,</hi> who hath gotten three confounded great Heads, and upon every Head a Perriwig of Snakes and Adders<g ref="char:punc">▪</g> This Dog ſome days before we arrived had angred the <hi>Queen Proſerpina,</hi> and ſhe ſtill threatn'd him when her <hi>Prince</hi> came home, ſhe would have him turn'd out of his Office, and a more de<g ref="char:EOLhyphen"/>ſerving Cur put into his place; Now when he ſaw our <hi>Towzer,</hi> he thought this was the Whelp, that was to ſucceed him, and thereupon fell a growling and ſnarling at poor <hi>Towzer</hi> after a moſt Helliſh manner; <hi>Towzer</hi> (who thought himſelf ſafe becauſe he had gotten <hi>Satan</hi> and his <hi>Chaplain</hi> by his ſide) very fairly ſhew'd his ſnag<g ref="char:EOLhyphen"/>ling Teeth at him again, then the feud increaſed on both <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>des moſt vehemently, at length what do's this <hi>Hell-Hound Cerberus</hi> do? But leap after a moſt barbarous man<g ref="char:EOLhyphen"/>ner upon poor <hi>Towzers</hi> back, ſets his Holders into his Fiddle (which he had tun'd ready to play us a Flouriſh to wellcome us into Hell) and brake it all to ſhivers, then bites him by the Back, Belly, Sides and Ears, at ſuch a rate, that it made <hi>Towzer</hi> Roar moſt mellodiouſly; nay this Damn'd Dog <hi>Cerberus</hi> had certainly killed him, had
+<pb n="6" facs="tcp:62110:6"/>
+not <hi>Charon</hi> come juſt in the nick and beat him off with one of his Oars; So<g ref="char:punc">▪</g> this was the firſt adventure we made, and here <hi>Towzer</hi> came by the worſt of it. <hi>Belzebub</hi> ha<g ref="char:EOLhyphen"/>ving been long<g ref="char:punc">▪</g> abſent from his dear<g ref="char:punc">▪</g> 
+               <hi>Proſerpina,</hi> could not but make her a viſit before he ſought any further. <hi>Tow<g ref="char:EOLhyphen"/>zer</hi> was m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to go along with him<g ref="char:punc">▪</g> for he underſtood her to be a very beautiful Female, and at ſuch kind of Creatures the Cur did continually lick his Chaps; to the Helliſh <hi>Seraglio</hi> we march. And there having ta<g ref="char:EOLhyphen"/>ken a view of the <hi>Queen</hi> and the ſplendid Ornaments of the Structure; from it (after we had taken our leaves of the <hi>Queen</hi> according to the Ceremonies of that Court) we go to ſearch all theſe Territories after our Dear Friend <hi>Heraclitus;</hi> and in the firſt place we deſigned to walk along by the bank of the famous River <hi>Acheron;</hi> I was in hope when they took up the reſolution firſt, we had been going to Travel by the ſide of ſome pleaſing River environ'd round with verdant Meadows, Comfor<g ref="char:EOLhyphen"/>table Willows and matted ſedge for the <hi>Nymphs</hi> to ſculk in; I promiſed my ſelf a thouſand ſweets by the bank of this Stream, for I expected it to be no leſs than an Infer<g ref="char:EOLhyphen"/>nal <hi>Heli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on;</hi> Now, thinks I, I ſhall have mine Ears Charm'd with the Mellodious Voices of its warbling Syrens; mine Eys feaſted with the beſt Compoſitions of Natural Features; and all my ſences wrapt up in the Contem<g ref="char:EOLhyphen"/>plation of moſt beauteous Objects. But truly I was much deceived; The River was nothing elſe but a thick mix<g ref="char:EOLhyphen"/>ture of Pitch and Brimſtone, and that ſcalding hot too; No Flowry Meads and Graſs on its Banks, but Mountains of Sulpherous Aſhes; No Mellody, but the ſcreetching and Howling of Damne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Souls<g ref="char:punc">▪</g> that were doom'd to ſtay there no leſs then eternally; Here I ſaw poor <hi>Siſy<g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> rowling up his Stone, while his M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dere<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Theſeus</hi>
+               <pb n="7" facs="tcp:62110:6"/>
+ſat on the top of the Hill bewailing his own Condition; here I ſaw <hi>Ixion</hi> tumbling on his Wheel, and <hi>Tantalus</hi> with his Stony ruff about his Neck, and his Apples bobbing at his Noſe; here were different ſorts of Puniſhments I lookt about to find out the place where the <hi>Divines</hi> ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, for certain I was, I ſhould not miſs of finding ſome of their Reverend Souls in <hi>Bilbo;</hi> theſe I found at laſt in a long Melancholy place, all ſitting upon ſtools of Re<g ref="char:EOLhyphen"/>pentance, and comparing the juſt decree of their Puniſh<g ref="char:EOLhyphen"/>ments with their own Sermon Notes; theſe I pittied, but alas! Pitty and Repentance avail nothing to Damned Souls. But the beſt jeſt was to ſee how the poor <hi>Taylors</hi> were uſed; They were ſet upon their Heads in hot Cal<g ref="char:EOLhyphen"/>drons, and a Company of Fiends were pricking their Bodies, and making Button holes in their Skins; theſe and the <hi>Lawyers</hi> were the moſt tormented, who were hung over the Hot Flaming Furnace by <hi>Geometry</hi> in Shreds of Parchment. But to ſee how <hi>Towzer</hi> lookt, you would admire, he was as unconcern'd as if he had been amongſt his <hi>Tory</hi> Friends at <hi>Sam</hi>'s, and valued no more the ſcreetchings of the poor Damned Souls, then he did the twang of his Fiddle. Now for my part (though I muſt confeſs, while I was on Earth, my Conſcience was as hard as the Church Walls) now it began a little to melt. Now were we come to the end of the River <hi>A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eron,</hi> and no News of our Deareſt Friend <hi>Heraclitus;</hi> Now we are reſolved to Range the Banks of the next River, the Immortal <hi>Styx.</hi> But before we could come to this River, we muſt paſt many Sandy Deſerts and vaſt Mountains of Aſhes, between which Mountains were many large ſpacious Vales, very well ſet with Trees, but theſe Trees are never green, and bear no Fruit, be<g ref="char:EOLhyphen"/>cauſe of the noiſom Vapours that ariſe from the <hi>L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke<g ref="char:punc">▪</g>
+               </hi>
+               <pb n="8" facs="tcp:62110:7"/>
+One of theſe<g ref="char:punc">▪</g> Vales was Inhabited by a company of <hi>La<g ref="char:EOLhyphen"/>dies,</hi> that had not committed ſo great Enormities as the others, and therefore were to be tormented with a ſmall puniſhment here, till <hi>Jupiter</hi> ſhould think fit to remove them to the <hi>Elyſian-Fields;</hi> This place I verily believed to be the <hi>Purgatory</hi> the <hi>Papiſts</hi> tell us of. Now you muſt underſtand theſe <hi>Ladies</hi> have but two hours ſleep alotted them in three days, and we happened to come in the time of their Repoſe; <hi>Towzer</hi> he open'd ſo loud in ſearch of <hi>Heraclitus,</hi> that on my Conſcience if one had been pickled up in <hi>Opium</hi> he would have awakned one; this yelping of his, diſturb'd the drowzy <hi>Ladies,</hi> whoſe two hours ſleep was a pretious Tallent after ſo long a wake; they were mightily Enrag'd, and thereupon ſent their Chambermaids to ſalute <hi>Towzers</hi> Chaps with ſome Piſ<g ref="char:EOLhyphen"/>pots from their Chamber windows, but Piſ-pot take 'em all! For I am ſure ſome of the Piſs fell upon me, and ſcalded me moſt vengibly; for you muſt underſtand by the way, that they Piſs nothing but Fire in Hell; But this Whelp <hi>Towzer</hi> got off all that fell on him only by ſhaking his Ears a little; Hence we depart and go down to the brink of the River, and enquire for <hi>Heraclitus,</hi> but no News at all; This River was a terrible flaming, ſtink<g ref="char:EOLhyphen"/>ing River, enough to ſtrike Terror into a Saint. This was an extraordinary puniſhment for Extraordinary Sinners; Here were thouſands of <hi>Biſhops</hi> and many <hi>Popes</hi> tumbling in their Tortures; here was <hi>Salmoneus</hi> King of <hi>Elis</hi> with many other Kings; Here lay the <hi>Danaides</hi> like ſtew'd Owls in hot Caldrons, but yet in as bad a Condition as they were, we could ſcarce keep our <hi>Towzer</hi> from run<g ref="char:EOLhyphen"/>ning through Fire and Brimſtone to commit a Rape upon their Bodies. The Inhabitants of this River are very much troubled with <hi>Hurricanes,</hi> but of a far different Na<g ref="char:EOLhyphen"/>ture
+<pb n="9" facs="tcp:62110:7"/>
+to thoſe we have upon Earth, ours are cold, but thoſe are moſt damnably hot; There happened one of theſe while we were by the brink of the River, which blew off Prince <hi>Belzebubs</hi> Hat into the deep, how to get it again we knew not; <hi>Belzebub</hi> commanded <hi>Towzer</hi> to ſwim and fetch it out, now <hi>Towzer</hi> was put to his trumps; <hi>Towzer</hi> he pleaded, he was no <hi>Water Spaniel,</hi> but a <hi>Bull-Dog,</hi> and that he commanded him to do a thing that was below him; <hi>Belzebub</hi> threatned to throw him into the Ri<g ref="char:EOLhyphen"/>ver with a great Millſtone about his neck if he did not fetch it preſently; <hi>Towzer,</hi> he whin'd and was very loath to venture, ſometimes he ran to the water ſide, then he goes again, puts one of his Forefeet into the Water, but the Water ſcalded his Toes, then he turns about and whines and yells moſt hideouſly. But as good luck would have it, there aroſe an <hi>Hurricane</hi> on the other ſide of the River, which blew the Hat to this, and ſo ſav'd poor <hi>Towzer</hi> a Parboyling. This <hi>Styx</hi> is a terrible great Ri<g ref="char:EOLhyphen"/>ver, and runs nine times about Hell; we had travell'd by the bank of this River all round, and I think endur'd as much Torture in our walks as the Damned do in their Torments, many a weary ſtep had we took, many a reſtleſs night had we endur'd, but no Tidings of <hi>Heracli<g ref="char:EOLhyphen"/>tus;</hi> Now were we come juſt to the end of this River; But before we departed, <hi>Towzer</hi> would have <hi>Belezbub</hi> ſwear by the <hi>Stygian Torrent,</hi> That he would forgive him whatſoever Miſdemeanour he did commit before he went out of Hell. <hi>Belzebub</hi> (becauſe <hi>Towzer</hi> was a cordial Friend) took the Oath. Now <hi>Belzebub</hi> began to be weary, <hi>Towzer</hi> to hange an Arſe, and I almoſt jaded off from my Legs, ſo 'twas agreed upon on all ſides to leave ſeeking ſince we ſought in vain, to chear our droo<g ref="char:EOLhyphen"/>ping Spirits, and to return to the beauteous <hi>Proſerpina</hi> to Court, there for a little while to lament the loſs of our
+<pb n="10" facs="tcp:62110:8"/>
+dear <hi>Heraclitus,</hi> and then enjoy all the pleaſures of Prince <hi>Belzebubs</hi> Court: we ſet forward with all the ſpeed ima<g ref="char:EOLhyphen"/>ginable, and at length arrived at our wiſht-for Har<g ref="char:EOLhyphen"/>bour the Court, where we were entertained very kind<g ref="char:EOLhyphen"/>ly by the ſweet natur'd <hi>Proſerpina. Belzebub</hi> indeed be<g ref="char:EOLhyphen"/>hav'd himſelf like a Gentleman, and treated us after an extraordinary manner with all the Dainties of the Infer<g ref="char:EOLhyphen"/>nal Region; Now did we every day Carouze in whole Rivers of <hi>Nectar,</hi> and eat the <hi>Manna</hi> of the Gods; but I am ſure we had not eat one bit ſince we came into Hell before, for 'tis a d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mn'd barren Country for Proviſi<g ref="char:EOLhyphen"/>on; all the Courtiers gave us honour, and <hi>Towzer</hi> was not a little proud to have the company of ſo many fair <hi>Ladies,</hi> for you muſt know theſe <hi>Ladies</hi> that have ſuffered Purgatory in the <hi>Stygian Vales,</hi> when they are releaſed, do (in their way to <hi>Elyſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi>) ſpend ſome time in <hi>Belzebubs</hi> Court. <hi>Towzer</hi> he had gotten all the pieces of his <hi>F<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<g ref="char:EOLhyphen"/>dle,</hi> and had patcht them together, and every night went to <hi>ſerenade</hi> one or another of theſe <hi>Ladies;</hi> Every day we were at ſome noble Treat with them; and <hi>Towzer</hi> did wag his Tail and fawn moſt deviliſhly at them, and my foreboding Spirits did prophecy, that <hi>Towzer</hi> would make ſweet work with them if ever he could get an op<g ref="char:EOLhyphen"/>portunity. When ever vve vvent to the <hi>Playhouſe</hi> to ſee an Infernal <hi>Fir<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Acted (for knovv by the vvay this Court doth imp the Terreſtrial in all their doings) <hi>Tow<g ref="char:EOLhyphen"/>zer</hi> did gloat at the <hi>Ladies</hi> after a damn'd leacherous man<g ref="char:EOLhyphen"/>ner: novv I, vvho did ſtill keep company vvith <hi>Towzer,</hi> vvould be very crank upon the <hi>Ladies,</hi> vvould be glan<g ref="char:EOLhyphen"/>cing and cocking at them as I ſtood ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adling in the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it</hi> and they in the <hi>Box<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> I thought I might have the ſame Liberty in this <hi>Playhouſe</hi> I uſed to have at that in <hi>White-Fryars;</hi> But when ever I look'd at them, <hi>Towzer</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> did <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> me over the face with his <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gy
+<pb n="11" facs="tcp:62110:8"/>
+Tail. And truly I took it in great dudgeon, but durſt not ſpeak a word; I did verily believe he had a leacherous deſign upon ſome of their Bodies, and knowing me to be a young brisk fellow, he thought his zea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and mine might jump at one and the ſame Quarry, for I muſt confeſs I was naturally very lew'd, and I am ſure I loſt nothing by being acquainted with my Patron; one morning I heard <hi>Towzer</hi> very buiſy in getting a Pen and ink, and in a ſhort time he came and knocked at my Chamber door, gave me a <hi>Billet</hi> and commanded me to carry it to <hi>Proſerpina</hi>'s Apartment, with a great charge to deliver it to none but her ſelf; I took the <hi>Billet,</hi> but by the way I was big with deſire to know what was in the middle, and indeed, like a faithful Servant I brake it open, and took a Copy of it, which was as followeth.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>To the admirable <hi>Proſerpina</hi> Queen of the Infernal Region.</head>
+                  <opener>
+                     <salute>Moſt beauteous and thrice delicate <hi>Madam,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> had not troubled you with this <hi>Billet</hi> could I have had any perſonal correſpondence with you. Love that hath made Gods turn men, men became Gods, and Fiends turn Saints, hath made me your Martyr. I languiſh, I pine, I melt away in Love, and (dear <hi>Madam</hi>) if you make no return I dye; that beauty of yours that made <hi>Pluto</hi> fetch you from <hi>Sicily</hi> hath conquer'd my heart, and you not only Reign the infer<g ref="char:EOLhyphen"/>nal <hi>Juno,</hi> but the all-charming <hi>Queen of Love.</hi> In ſhort, <hi>Madam,</hi> without the enjoyment of your beautiful ſelf I am undone; and ſ<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eing I have reſigned up my Soul to your Husband <hi>Belzebub,</hi> I can do no leſs then give my Body to the Wife <hi>Proſerpina. Madam,</hi> I deſire to know by the Bearer how you reſent this Addreſs; in the mean while I Remain,</p>
+                  <closer>
+                     <signed>The meaneſt of your Votaries,
+<hi>Towzer.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Having read this <hi>Billet,</hi> I was very much aſtoniſhed at the Con<g ref="char:EOLhyphen"/>tents of it; What a deviliſh <hi>Dog</hi> (think I) is this <hi>Towzer?</hi> What a complaiſant Cur it is? What a ſmooth, wheadling, inſinuating Letter the Whelp hath drawn up? I was in an hundred minds in a quarter of an hour; ſometimes I reſolved to keep the <hi>Billet;</hi> then to give it to <hi>Belzebub</hi> and diſcover the villany of <hi>Towzer,</hi> for to ſay truly my righteous Spirit began to riſe at this nefarious de<g ref="char:EOLhyphen"/>ſign,
+<pb n="12" facs="tcp:62110:9"/>
+whether it were out of a righteous Principle or no I know not, but I'le aſſure you my Divinity was much concerned in the caſe; Thinks I, what a vile Hell-hound is this <hi>Towzer,</hi> to conſpire the Cuckoldom even of Prince <hi>Belzebub?</hi> Oh Abhorrible Act? Not only to make the <hi>Devil</hi> a <hi>Cuckold,</hi> but make a Divine the <hi>Pimp!</hi> What an impious Scoundrel is this Patron of mine, to make me a Poſt to carry about ſuch bawdy Epiſtles? But I thought if I gave the <hi>Billet</hi> to <hi>Belzebub</hi> the conſequence of it might prove very fatal both to me and my Patron; and if I kept it, my Patron might have the impudence to have me condemn'd to ſit upon a Stool of Repentance in the dusky Room of <hi>Styx</hi> amongſt my fellows; ſo I took wit in my heat, and delivered the <hi>Billet</hi> to <hi>Proſerpina,</hi> who took it and return'd this anſwer immediately, which I brake up, and took a Copy of, as I did of the former.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>To the Right Worſhipful TOWZER.</head>
+                  <p>
+                     <hi>I</hi> Have Received your <hi>Billet,</hi> and wonder at your Impudence in ma<g ref="char:EOLhyphen"/>king ſuch an Addreſs, am not I <hi>Proſerpina Queen of Hell?</hi> And you in reſpect of me, an Infamous Perſon? Do you think if I ſhould tell my <hi>Prince</hi> of this, he would not Chain you to one of the Stakes in <hi>Barathraum</hi> to drive out your Natural heat with a greater? No, good <hi>Towzer</hi> forbear! I am meat for your <hi>Maſter,</hi> and take this as kind Advice from</p>
+                  <closer>
+                     <signed>Kind <hi>Proſerpine.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This I brought to <hi>Towzer,</hi> who was allmoſt mad 'till he knew how his <hi>Billet</hi> took with his Charming <hi>Proſerpina,</hi> he goes into his Chamber and reads it; I heard no more News of his Dogſhip untill the next Morning; for my part I was in bodyly fear leaſt he ſhould have hang'd himſelf, and ſo I ſhould have been forced to have gone home again by myſelf; but in the Morning betimes he was Scratching at my door for his Breakfeaſt, I aroſe and provided all things in order; but you never ſaw a poor Dog altered ſo in your Life, he lookt as ſower as a Cat at Stool, as Thinn as if he had not gnawed a Bone for a whole year together; I could not ſpeak to him, but the Spanniſh Cur was ready to bite my Noſe off; he walkt about the Chamber, and piſt againſt all the Joint S<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ools, and Chairs, for madneſs; then he would fetch a deep Sigh, Then crack a Fart, Then Howl and make a Conceited noiſe like Cats a <hi>Whipping.</hi> I veryly thought the Devil was in the Whelp,
+<pb n="13" facs="tcp:62110:9"/>
+or that he was Bewitcht; away he goes on a ſudden, and in a ſhort time brought me this <hi>Billet,</hi> which he commanded me to carry to <hi>Proſerpina</hi> as I had done the former.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>To <hi>Proſerpina</hi> Queen of the Infernal Territorys.</head>
+                  <opener>
+                     <salute>Madam,</salute>
+                  </opener>
+                  <p>NOtwithſtanding your Angry Return, I make bold to adventure on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e more, knowin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I can but come off with a poſitive D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nial. De<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ls Increaſe Love, and Yours hath Increaſed me to ſuch a Degree, that all the B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ws of the Ocean cannot quench it, I <gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>me in love; Daggers, Poiſons, Furies rid me of my Life, I cannot love H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll n<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Heaven, while I am not Belov'd of you. Therefore ſw<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t Madam con<g ref="char:EOLhyphen"/>ſent to my Requeſt, for I Remain,</p>
+                  <closer>
+                     <signed>Your eternal Admirer,
+<hi>Towzer.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This I gave to <hi>Proſerpina,</hi> who, when ſhe had read it over, came to me and bid me tell my Patron, <hi>That he was a Coxcomb, and that ſhe would acquaint her Prince with his vile Deſigns;</hi> to my Patrons Lodgings I went, where I found him in a great Readyneſs to receive an Anſwer, I told him <hi>Proſerpina</hi> had ſent him no Letter, but bid me tell him, <hi>That he was a Vile Whelp, a Mangie, Maggot-ars'd Cur, and that ſhe would tell Belzeebub he did intend to Raviſh her.</hi> This made <hi>To<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zer</hi> Scratch his Pole moſt confoundedly, and Stalk away as if he had been going to be hang'd. We kept our conſtant courſe of Viſiting the Ladies as we us'd to do, and every Morning we took a walk in <hi>Belzebubs</hi> Privy-Garden, where <hi>Towzer</hi> got a great Acquaintance with the Female Sex; ſo I got leave of him to go into the Suburbs of the Court, for I was very curious to ſee the fa<g ref="char:EOLhyphen"/>ſhions and manners of it, hoping if once I got ſafe out of it, never to return again; I was abſent from Court about a day and an half, at my return I found the Court in a very great Hubbub, People running up and down the Streets as if the Devil had driven them; I ſaw they did all Reſort to one great Houſe, that was not far from the
+<pb n="14" facs="tcp:62110:10"/>
+Court, thither I went, where I found a numerous Con<g ref="char:EOLhyphen"/>gregation, this I preſently miſtruſted to be a Court of Ju<g ref="char:EOLhyphen"/>dicature, becauſe there Sate ſome great ones in their <hi>Pon<g ref="char:EOLhyphen"/>tificallibus,</hi> ſeeming as if they Inteaded to give Judgment upon ſome Male actor or other, I was very deſirous to ſee the proceedings of this Court, and therefore crouded up as cloſe as I could; preſently I heard a great ſhout, <hi>make room for the Priſoner,</hi> and every body gave way; but bleſs mine Eyes! who ſhould this Priſoner be but our <hi>To<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zer</hi> led up in a long ſtring, with a great braſs Coller about his Neck; But to ſee how Doggiſh the Cur look'd! he laid his Ears in his Pole, his Tail between his Legs, and look'd as if he would have devoured the whole Society: Well; here ſtood <hi>Towzer</hi> a Criminal, the firſt clauſe of his Ac<g ref="char:EOLhyphen"/>cuſation was read, which was, <hi>That Towzer was Convicted both of Diſhoneſty and Lechery.</hi> They demanded of him if he could ſay any thing for himſelf. <hi>Towzer</hi> very Jeſuiti<g ref="char:EOLhyphen"/>cally told them, as to his being diſhoneſt, in one Senſe it was true, and in one ſenſe it was not; as he was Servant to <hi>Belzeebub</hi> he did confeſs he was not honeſt, yet as he was a guide to the <hi>Inferiour Clergy,</hi> he was, for they have ſome grains of Allowance for Knavery; in like manner he an<g ref="char:EOLhyphen"/>ſwer'd to the other, he ſaid, <hi>Quatenus homo,</hi> i. e. <hi>quatenus Rogero del B<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbardo,</hi> he was very Lecherous; but <hi>quatenus Towzer</hi> i. e. <hi>quatenus Dog,</hi> he was very chaſte; for ſays he, Dogs are of a hot Conſtitution by Nature, and beſides there is no Act againſt their going to <hi>Bitch-watching:</hi> none of the Helliſh Sophiſters could ſay any thing againſt theſe Diſtinctions; But now the fatal clauſe was read, <hi>viz. That Towzer had Committed a rape upon the Body of the Queen Proſerpina.</hi> No muſty Diſtinction would ſerve turn here, <hi>Proſerpina</hi> was produc'd, and ſeveral other Wit<g ref="char:EOLhyphen"/>neſſes; every one deem'd, <hi>Towzer</hi> would be hang'd, for who could have thought he had any thing to ſay againſt
+<pb n="15" facs="tcp:62110:10"/>
+ſo clear Evidence. But you ſhall hear how the Pollitick Cur got off. If you remenber I told you before, at our Departure from the <hi>Stygian Lake, Towzer</hi> made <hi>Belzebub</hi> ſwear by the <hi>Stygian Torrent, That whatſoever Miſdemea<g ref="char:EOLhyphen"/>nour he ſhould commit before he went out of Hell, he would for<g ref="char:EOLhyphen"/>give him.</hi> Now you muſt underſtand when a <hi>God</hi> ſwears by this <hi>Torrent,</hi> the oath is ſo obliging, that if he break it, he loſeth his <hi>Godhead,</hi> and is to drink no Nectar for a hundred year, this Oath <hi>Towzer</hi> put <hi>Belzebub</hi> in mind of, who rather then loſe his <hi>Godhead</hi> and forſeit his <hi>Nectar,</hi> would be a contented Cuckold of <hi>Towzers</hi> making, and ſo they were both very good Friends again. Now is <hi>Towzer</hi> in as much repute at Court as ever, but <hi>Proſer<g ref="char:EOLhyphen"/>pina</hi> had markt him for a foul Cur, and cared very little for his Company. Now I knew not how this rape was effected, nor nothing of the Circumſtances of it, and therefore I was almoſt diſtracted to hear how he did it</p>
+            <p>One Evening as I was putting his Dogſhip into his nightly lit<g ref="char:EOLhyphen"/>ter, I asked him the time when, and the manner how he accom<g ref="char:EOLhyphen"/>pliſht his deſign. He <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old me one day as he and I were walking in the Orchard, into which there is a door op<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns from <hi>Proſerpina</hi>'s Apartment, he was walking a little before me, and found <hi>Proſer<g ref="char:EOLhyphen"/>pina</hi> a ſleep upon a Bank of <hi>Camom<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> and then he did the Jobb. I well remember the time, for I thought he would have made a bite upon my body, he was ſo fierce to have me gone out of the Orchard; but looking about out of curioſity, I remember I ſaw him ſcratch with his face and hind Legs in the Graſs, as Cats do when they are going to dung in the duſt but I did not in the leaſt imagine he had any ſuch lew'd project in his head. Now were we allmoſt cloy'd with Court dainties, our dear fri<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Heraclitus</hi> was not to be found in all Hell, though we thought this climate did agree beſt with his Body, <hi>Towzer</hi> crav'd leave to return to his dear <hi>Joanna</hi> again. <hi>Belzebub</hi> was very loath to part with his b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loved <hi>Towzer:</hi> after a ſhort pauſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Wrll quoth Belzebub; Towzer thou moſt deſerving <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thy Sex, thou art my Darling, my Beau<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and I will not l<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave thee until I have Condu<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed thee to th<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whence
+<pb n="16" facs="tcp:62110:11"/>
+I bro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght thee.</hi> Having taken our Leaves of <hi>Proſerpina</hi> and the <hi>Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t Ladies, Towzer, Belzebub and I,</hi> march Earthward again; <hi>Cerberus</hi> open'd his door very willingly, and <hi>Charon</hi> ſoon wafted us over, but told us by the by, it was for <hi>Belzebubs</hi> ſake he Rowed us back again, for of thoſe many Millions of Souls he carried into Hell, he brought none out. Now were we to climb the ſteep Caverns of the desky, cold, and Watry Earth, never did poor-Mortals-ſuffer ſuch a Tor<g ref="char:EOLhyphen"/>ment; This was indeed a Puniſhment little inferior to the Tortures of <hi>Barathrum,</hi> nothing had we to take hold of, but the looſned grots of Ear<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, that gave way as faſt as we laid our hands on them; nothing to ſet our feet upon but peices of Earth, that moulded away from under us. Heavens! I never was in ſuch a Condition in all my Life, ſometimes I ſhould be aſcended a pretty good way, then <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hold would ſlip and I ſhould tumble down, to the bottom again: my Sides were all bruiſed, my Bones out of Joint, and ſome of them broken, Swoln Bliſters did ſtick as faſt to my Sides as <hi>Jews ears</hi> to an Elder. This ſad condition brought me in Mind of the ſaying of the <hi>Poet:</hi>
+               <q>
+                  <l>Eſt facilis D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cenſus Averni, ſed Revocare Gradum</l>
+                  <l>H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c Labor, hoc Opus est.</l>
+                  <l>With Care we Slide to H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll; but Oh the pain!</l>
+                  <l>Thoſe Wretches take, that do come back again.</l>
+               </q>
+            </p>
+            <p>Nay, on my Conſcience, I had never got about again had it not been <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <hi>Towzer,</hi> he ſet his Claws into the Stones and Earth, and Scrabled up luſtyly, and truely I was feign to hang by his Tail, and ſo he drew me up into my proper Element once more, now are we got into our Native Country. Away march the illuſtrious <hi>Belze<g ref="char:EOLhyphen"/>bub</hi> and his Magnificent <hi>Towzer</hi> to a Victualling-houſe at the Sign of the <hi>Gun,</hi> where the goodly <hi>Joanna</hi> had provided a ſumptuous Supper Roaſted with <hi>Obſervators,</hi> and Cook'd by the one ey'd Baſtard. And I went to ſee if no body had thrown my Church <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut at Windows, but Heavens be praiſed! I found it juſt as I left it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62110:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
